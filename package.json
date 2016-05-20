@@ -1,7 +1,7 @@
 {
   "name": "atom-djfmt",
   "main": "./lib/atom-djfmt",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "format string to mysql query.",
   "keywords": [
   ],
