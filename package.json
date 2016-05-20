@@ -1,0 +1,18 @@
+{
+  "name": "atom-djfmt",
+  "main": "./lib/atom-djfmt",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-djfmt:toggle"
+  },
+  "repository": "https://github.com/atom/atom-djfmt",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

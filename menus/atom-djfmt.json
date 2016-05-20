@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-djfmt",
+        "command": "atom-djfmt:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-djfmt",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-djfmt:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
