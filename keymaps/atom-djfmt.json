@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-djfmt:toggle"
+    "ctrl-alt-o": "atom-djfmt:pythonToQuery"
   }
 }

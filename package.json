@@ -1,14 +1,14 @@
 {
   "name": "atom-djfmt",
   "main": "./lib/atom-djfmt",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "format string to mysql query.",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "atom-djfmt:toggle"
+    "atom-workspace": "atom-djfmt:pythonToQuery"
   },
-  "repository": "https://github.com/atom/atom-djfmt",
+  "repository": "https://github.com/80xer/atom-djfmt",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

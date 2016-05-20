@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle atom-djfmt",
-        "command": "atom-djfmt:toggle"
+        "command": "atom-djfmt:pythonToQuery"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "atom-djfmt",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-djfmt:toggle"
+              "label": "pythonToQuery",
+              "command": "atom-djfmt:pythonToQuery"
             }
           ]
         }
